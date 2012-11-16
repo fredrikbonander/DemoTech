@@ -1,4 +1,4 @@
 DemoTech
 ========
 
-DemoTech :)
+DemoTech
